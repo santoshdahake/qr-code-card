@@ -4,8 +4,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   background-color: #d6e2f0;
+  opacity: 1;
 }
 .container {
   height: 471px;
