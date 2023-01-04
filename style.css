@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,900&family=Outfit:wght@300&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #d6e2f0;
+    
+}
+.container{
+    height:470px;
+    width:290px;
+    background-color: #ffffff;
+    display:flex;
+    flex-wrap: wrap;
+margin-left: 512px;
+    margin-top: 110px;
+    border-radius:15px;
+
+    
+}
+#img{
+    height:211px;
+    width:248px;
+    margin:20px;
+    border-radius: 10px;
+
+
+}
+.div2{
+    height:200px;
+    width:205px;
+    
+    margin-left: 30px;
+    margin-top: 5px;
+    font-size: 15px;
+    border-radius: 10px;
+    font-family: Outfit;
+    text-align: center;
+    
+}
+p{
+   
+    color:#000000a4;
+}
